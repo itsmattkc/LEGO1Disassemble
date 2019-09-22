@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Tools">
+      <UniqueIdentifier>{4a1e121c-4ca7-42b0-9f43-388cc7998661}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LEGO1">
+      <UniqueIdentifier>{eb5ff76e-06a0-48a5-b66c-78220c03454e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DllPrj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\DDTools.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\DebugTools.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tools\LongJump.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList1.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList10.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList11.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList12.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList13.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList14.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList15.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList16.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList17.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList18.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList19.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList2.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList20.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList21.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList22.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList23.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList3.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList4.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList5.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList6.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList7.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList8.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_FunList9.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_data.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_idata.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_rdata.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+    <ClCompile Include="LEGO1_text.cpp">
+      <Filter>LEGO1</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\DDTools.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\DebugTools.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tools\LongJump.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="LEGO1.h">
+      <Filter>LEGO1</Filter>
+    </ClInclude>
+    <ClInclude Include="LEGO1_data.h">
+      <Filter>LEGO1</Filter>
+    </ClInclude>
+    <ClInclude Include="LEGO1_idata.h">
+      <Filter>LEGO1</Filter>
+    </ClInclude>
+    <ClInclude Include="LEGO1_rdata.h">
+      <Filter>LEGO1</Filter>
+    </ClInclude>
+    <ClInclude Include="LEGO1_text.h">
+      <Filter>LEGO1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LEGO1.def">
+      <Filter>LEGO1</Filter>
+    </None>
+  </ItemGroup>
+</Project>
